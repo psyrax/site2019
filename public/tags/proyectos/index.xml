@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>proyectos on Psyrax</title>
+    <link>/tags/proyectos/</link>
+    <description>Recent content in proyectos on Psyrax</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/proyectos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Box Scanner: Parte 1, el prototipo</title>
+      <link>/posts/box_scanner/parte1/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/box_scanner/parte1/</guid>
+      <description> Intro Hay dos proyectos que tengo pendientes desde hace mucho tiempo: hacer un app con Xamarin y hacer un app para llevar el inventario de mis cajas de cosas.
+Las cajas de cosas </description>
+    </item>
+    
+  </channel>
+</rss>
