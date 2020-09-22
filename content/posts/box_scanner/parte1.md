@@ -9,7 +9,7 @@ description = "Haciendo el prototipo del app para adminsitrar inventarios person
 showFullContent = false
 +++
 # Intro
-Hay dos proyectos que tengo pendientes desde hace mucho tiempo: hacer un app con Xamarin y hacer un app para llevar el inventario de mis cajas de cosas.
+Hay dos proyectos que tengo pendientes desde hace mucho tiempo: hacer un app con Xamarin y hacer un app para llevar el inventario de mis cajas de cosas. Nuevo cambio :D 
 
 ## Las cajas de cosas
 {{< image src="/img/cajas.png" alt="Cajas de cosas" position="left" style="border-radius: 8px; max-height:500px;" >}}
